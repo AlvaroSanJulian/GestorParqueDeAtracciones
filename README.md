@@ -78,11 +78,11 @@ Por último, se utiliza `Collections.sort()` para ordenar las atracciones según
 
 **Conceptos trabajados:**
 
-- `ArrayList`
-- `Collections`
-- `Comparator`
+- ArrayList
+- Collections
+- Comparator
 - Excepciones personalizadas
-- `try / catch`
+- try / catch
 - Gestión de errores
 - Ordenación de objetos
   
