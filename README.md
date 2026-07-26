@@ -24,6 +24,8 @@ Proyecto realizado en 1º de DAW en el que se desarrollan las siguientes funcion
 
 ### Parte 1 - Fundamentos
 
+---
+
 En esta primera parte trabajé los conceptos básicos de programación
 utilizando arrays bidimensionales y diferentes estructuras de control.
 
@@ -40,9 +42,10 @@ de diferentes atracciones.
 - Búsqueda de valores mínimos
 - Gestión de datos
 
----
 
 ### Parte 2 - Programación Orientada a Objetos
+
+---
 
 En la segunda parte se transforma el proyecto para aplicar Programación Orientada a Objetos.
 
@@ -61,9 +64,9 @@ También se incorpora la interfaz `Accesible` y el enum `EstadoAtraccion`.
 - Sobreescritura de métodos
 - Enum
 
----
-
 ### Parte 3 - Colecciones y excepciones
+
+---
 
 En la tercera parte se amplía el proyecto utilizando estructuras de datos dinámicas.
 
