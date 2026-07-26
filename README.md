@@ -40,6 +40,8 @@ de diferentes atracciones.
 - Búsqueda de valores mínimos
 - Gestión de datos
 
+---
+
 ### Parte 2 - Programación Orientada a Objetos
 
 En la segunda parte se transforma el proyecto para aplicar Programación Orientada a Objetos.
